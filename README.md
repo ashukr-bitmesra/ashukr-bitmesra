@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, Nodejs, Mongodb,expressjs, Javascript,C++,Vitest,SAPUI5**
 
-- 📫 How to reach me **ashutoshkumar99055@gamil.com**
+- 📫 How to reach me **ashutosh.kr.6201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
