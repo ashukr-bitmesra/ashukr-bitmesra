@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **AP Automation**
+- 🔭 I’m currently working on **APA Automation**
 
 - 💬 Ask me about **React, Nodejs, Mongodb,expressjs, Javascript,C++,Vitest,SAPUI5**
 
